@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9c6f496c-3589-4c45-b499-f38179fa2faa" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="NettyPro" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/source/echo2/EchoServerHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="48" column="19" selection-start-line="41" selection-start-column="12" selection-end-line="48" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/publicinterface/HelloService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/provider/HelloServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="71" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/provider/ServerBootstrap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="32" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/netty/NettyClientHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="24" column="37" selection-end-line="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/netty/NettyClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="43" column="22" selection-end-line="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/customer/ClientBootstrap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/netty/NettyServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="40" column="83" selection-end-line="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/netty/NettyServerHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="19" column="56" selection-end-line="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/source/echo2/EchoServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="912">
+              <caret line="73" column="38" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>NettyRuntime.availableProcessors()</find>
+      <find>children = new EventExecutor[nThreads]</find>
+      <find>MultithreadEventExecutorGroup</find>
+      <find>protected MultithreadEventExecutorGroup(int nThreads, Executor executor,</find>
+      <find>public ChannelFuture bind(SocketAddress localAddress)</find>
+      <find>ChannelPipeline addLast</find>
+      <find>public final ChannelPipeline addLast(EventExecutorGroup group, String name, ChannelHandler handler)</find>
+      <find>protected void doBind(SocketAddress localAddress) throws Exception</find>
+      <find>(PlatformDependent.javaVersion() &gt;= 7</find>
+      <find>javaChannel().bind(localAddress, config.getBacklog());</find>
+      <find>channel = channelFactory.newChannel()</find>
+      <find>protected MultithreadEventExecutorGroup(int nThreads, Executor executor</find>
+      <find>if ((readyOps &amp; (SelectionKey.OP_READ | SelectionKey.OP_ACCEPT)) != 0 || readyOps == 0)</find>
+      <find>childGroup.register(child).addListener(new ChannelFutureListener()</find>
+      <find>processSelectedKey(SelectionKey k, AbstractNioChannel ch)</find>
+      <find>final SelectionKey selectionKey = this.selectionKey;</find>
+      <find>newCtx = newContext(group, filterName(name, handler), handler);</find>
+      <find>pipeline = newChannelPipeline()</find>
+      <find>private void write(Object msg, boolean flush, ChannelPromise promise) {</find>
+      <find>final Object m = next.pipeline.touch(ObjectUtil.checkNotNull(msg, &quot;msg&quot;), next);</find>
+      <find>private void write(Object msg, boolean flush, ChannelPromise promise</find>
+      <find>static void invokeChannelRead(final AbstractChannelHandlerContext next, Object msg)</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Administrator\IdeaProjects\NettyPro\lib\netty-all-4.1.20.Final-sources.jar!\io\netty</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/codec/NettyClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/codec/NettyServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/codec/NettyServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/codec/NettyClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/codec2/Student.proto" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/codec2/MyDataInfo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/codec2/NettyClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/codec2/NettyServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/codec2/NettyServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/inboundhandlerandoutboundhandler/MyclientInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/inboundhandlerandoutboundhandler/MyLongToByteEncoder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/inboundhandlerandoutboundhandler/MyClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/inboundhandlerandoutboundhandler/MyServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/inboundhandlerandoutboundhandler/MyByteToLongDecoder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/inboundhandlerandoutboundhandler/MyServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/inboundhandlerandoutboundhandler/MyClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/inboundhandlerandoutboundhandler/MyByteToLongDecoder2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/inboundhandlerandoutboundhandler/MyClientInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/inboundhandlerandoutboundhandler/MyServerInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/tcp/MyClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/tcp/MyClientInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/tcp/MyClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/tcp/MyServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/tcp/MyServerInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/tcp/MyServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/protocoltcp/MessageProtocol.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/protocoltcp/MyMessageEncoder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/protocoltcp/MyMessageDecoder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/protocoltcp/MyServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/protocoltcp/MyServerInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/protocoltcp/MyClientInitializer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/protocoltcp/MyClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/source/echo/EchoClient.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/source/echo/EchoServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/source/echo/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/heartbeat/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/heartbeat/MyServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/source/echo/EchoServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/source/echo2/EchoClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/source/echo2/EchoServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/source/echo2/EchoServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/publicinterface/HelloService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/provider/ServerBootstrap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/netty/NettyServerHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/netty/NettyServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/customer/ClientBootstrap.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/provider/HelloServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/netty/NettyClientHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/netty/NettyClient.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="640" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Duplicates</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="NettyPro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NettyPro" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NettyPro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NettyPro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NettyPro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NettyPro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NettyPro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NettyPro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="NettyPro" type="b2602c69:ProjectViewProjectNode" />
+              <item name="NettyPro" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="atguigu" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
+    <property name="Repository.Attach.Sources" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="Callable&#9;PSI&#9;JAVA://java.util.concurrent.Callable&#10;SingleThreadEventExecutor&#9;FILE&#9;jar://C:/Users/Administrator/IdeaProjects/NettyPro/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/util/concurrent/SingleThreadEventExecutor.java&#10;ScheduledExecutorService&#9;FILE&#9;jar://D:/program/jdk8.0/src.zip!/java/util/concurrent/ScheduledExecutorService.java&#10;Executor&#9;PSI&#9;JAVA://java.util.concurrent.Executor&#10;EventLoop&#9;PSI&#9;JAVA://io.netty.channel.EventLoop&#10;Selector&#9;PSI&#9;JAVA://java.nio.channels.Selector&#10;WriteTimeoutHandler&#9;FILE&#9;jar://C:/Users/Administrator/IdeaProjects/NettyPro/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/handler/timeout/WriteTimeoutHandler.java&#10;ReadTimeoutHandler&#9;FILE&#9;jar://C:/Users/Administrator/IdeaProjects/NettyPro/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/handler/timeout/ReadTimeoutHandler.java&#10;IdleStateHandler&#9;FILE&#9;jar://C:/Users/Administrator/IdeaProjects/NettyPro/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/handler/timeout/IdleStateHandler.java&#10;DefaultChannel&#9;FILE&#9;jar://C:/Users/Administrator/IdeaProjects/NettyPro/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/DefaultChannelPipeline.java&#10;DefaultChannelPipeline&#9;FILE&#9;jar://C:/Users/Administrator/IdeaProjects/NettyPro/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/DefaultChannelPipeline.java&#10;TailContext&#9;PSI&#9;JAVA://io.netty.channel.DefaultChannelPipeline.TailContext&#10;HeadContext&#9;PSI&#9;JAVA://io.netty.channel.DefaultChannelPipeline.HeadContext&#10;ChannelDuplexHandler &#9;PSI&#9;JAVA://io.netty.channel.ChannelDuplexHandler&#10;ChannelHandler &#9;PSI&#9;JAVA://io.netty.channel.ChannelHandler&#10;ChannelHandlerContext&#9;FILE&#9;jar://C:/Users/Administrator/IdeaProjects/NettyPro/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/AbstractChannelHandlerContext.java&#10;channelpipel&#9;FILE&#9;jar://C:/Users/Administrator/IdeaProjects/NettyPro/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/ChannelPipeline.java&#10;ChannelPipeline&#9;PSI&#9;JAVA://io.netty.channel.ChannelPipeline&#10;SelectionKey&#9;FILE&#9;jar://D:/program/jdk8.0/src.zip!/java/nio/channels/SelectionKey.java&#10;Selection&#9;PSI&#9;JAVA://java.nio.channels.SelectionKey&#10;DEFAULT_EVENT_LOOP_THREADS&#9;PSI&#9;JAVA://io.netty.channel.MultithreadEventLoopGroup#DEFAULT_EVENT_LOOP_THREADS&#10;Zlib&#9;PSI&#9;JAVA://io.netty.handler.codec.compression.ZlibEncoder&#10;ByteToMessage&#9;PSI&#9;JAVA://io.netty.handler.codec.ByteToMessageDecoder&#10;WebSocketFr&#9;PSI&#9;JAVA://io.netty.handler.codec.http.websocketx.WebSocketFrame&#10;EventLoopGroup&#9;FILE&#9;jar://C:/Users/Administrator/IdeaProjects/NettyPro/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/EventLoopGroup.java&#10;Channelhandler&#9;PSI&#9;JAVA://io.netty.channel.ChannelHandler&#10;ChannelFuture&#9;PSI&#9;JAVA://io.netty.channel.ChannelFuture&#10;Channel&#9;FILE&#9;jar://D:/program/jdk8.0/src.zip!/java/nio/channels/Channel.java&#10;SocketChannel&#9;FILE&#9;jar://D:/program/jdk8.0/jre/lib/rt.jar!/sun/nio/ch/ServerSocketChannelImpl.class&#10;ServerSocketChanne&#9;FILE&#9;jar://D:/program/jdk8.0/jre/lib/rt.jar!/sun/nio/ch/ServerSocketChannelImpl.class&#10;Selector &#9;PSI&#9;JAVA://java.nio.channels.Selector&#10;MappedByte&#9;PSI&#9;JAVA://java.nio.MappedByteBuffer&#10;Buffer&#9;FILE&#9;file://C:/Users/Administrator/IdeaProjects/NettyPro/src/main/java/com/atguigu/nio/NIOByteBufferPutGet.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.splitter.proportion" value="0.24803922" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\NettyPro\src\main\java\com\atguigu\netty\source\echo2" />
+      <recent name="C:\Users\Administrator\IdeaProjects\NettyPro\src\main\java\com\atguigu\netty\source" />
+      <recent name="C:\Users\Administrator\IdeaProjects\NettyPro\src\main\java\com\atguigu\netty\protocoltcp" />
+      <recent name="C:\Users\Administrator\IdeaProjects\NettyPro\src\main\java\com\atguigu\netty\tcp" />
+      <recent name="C:\Users\Administrator\IdeaProjects\NettyPro\src\main\java\com\atguigu\netty\codec2" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.netty.tcp" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\NettyPro" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ClientBootstrap">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientBootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.netty.dubborpc.customer.ClientBootstrap" />
+      <module name="NettyPro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.netty.dubborpc.customer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EchoClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.netty.source.echo2.EchoClient" />
+      <module name="NettyPro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.netty.source.echo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EchoServer (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.netty.source.echo2.EchoServer" />
+      <module name="NettyPro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.netty.source.echo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EchoServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.netty.source.echo.EchoServer" />
+      <module name="NettyPro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.netty.source.echo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServerBootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.atguigu.netty.dubborpc.provider.ServerBootstrap" />
+      <module name="NettyPro" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.netty.dubborpc.provider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.EchoServer" />
+      <item itemvalue="Application.EchoServer (1)" />
+      <item itemvalue="Application.EchoClient (1)" />
+      <item itemvalue="Application.ServerBootstrap" />
+      <item itemvalue="Application.ClientBootstrap" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientBootstrap" />
+        <item itemvalue="Application.ServerBootstrap" />
+        <item itemvalue="Application.EchoClient (1)" />
+        <item itemvalue="Application.EchoServer (1)" />
+        <item itemvalue="Application.EchoServer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9c6f496c-3589-4c45-b499-f38179fa2faa" name="Default" comment="" />
+      <created>1571552873994</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571552873994</updated>
+      <workItem from="1571552878987" duration="8125000" />
+      <workItem from="1571618183689" duration="263000" />
+      <workItem from="1571620469781" duration="1424000" />
+      <workItem from="1571622276778" duration="4336000" />
+      <workItem from="1571628250602" duration="5316000" />
+      <workItem from="1571639015635" duration="4804000" />
+      <workItem from="1571645047896" duration="1437000" />
+      <workItem from="1571646746256" duration="1470000" />
+      <workItem from="1571649797909" duration="2969000" />
+      <workItem from="1571652650284" duration="926000" />
+      <workItem from="1571705248825" duration="34000" />
+      <workItem from="1571705925632" duration="3335000" />
+      <workItem from="1571713482774" duration="5690000" />
+      <workItem from="1571718577558" duration="163000" />
+      <workItem from="1571718581451" duration="184000" />
+      <workItem from="1571718560656" duration="660000" />
+      <workItem from="1571719017292" duration="1053000" />
+      <workItem from="1571732025717" duration="3147000" />
+      <workItem from="1571833626170" duration="2337000" />
+      <workItem from="1571886760616" duration="7118000" />
+      <workItem from="1571908958119" duration="126000" />
+      <workItem from="1571909119296" duration="149000" />
+      <workItem from="1571909319115" duration="7649000" />
+      <workItem from="1571969322446" duration="8882000" />
+      <workItem from="1571984577787" duration="1797000" />
+      <workItem from="1571986813785" duration="1136000" />
+      <workItem from="1571990319840" duration="10329000" />
+      <workItem from="1572053946806" duration="2768000" />
+      <workItem from="1572058434455" duration="2058000" />
+      <workItem from="1572061726823" duration="1606000" />
+      <workItem from="1572063578917" duration="1554000" />
+      <workItem from="1572070367983" duration="5337000" />
+      <workItem from="1572077223254" duration="2854000" />
+      <workItem from="1572081234400" duration="62000" />
+      <workItem from="1572081559006" duration="5271000" />
+      <workItem from="1572182124576" duration="807000" />
+      <workItem from="1572184328868" duration="961000" />
+      <workItem from="1572185540236" duration="447000" />
+      <workItem from="1572186168370" duration="3432000" />
+      <workItem from="1572226807611" duration="9510000" />
+      <workItem from="1572248589814" duration="2566000" />
+      <workItem from="1572251162552" duration="2260000" />
+      <workItem from="1572253699098" duration="4884000" />
+      <workItem from="1572311255929" duration="3805000" />
+      <workItem from="1572316617936" duration="205000" />
+      <workItem from="1572316376304" duration="9087000" />
+      <workItem from="1572334315383" duration="8863000" />
+      <workItem from="1572396118591" duration="5211000" />
+      <workItem from="1572402944524" duration="743000" />
+      <workItem from="1572403012821" duration="16225000" />
+      <workItem from="1572438431824" duration="3675000" />
+      <workItem from="1572655735885" duration="6648000" />
+      <workItem from="1572672431722" duration="620000" />
+      <workItem from="1572673452672" duration="2663000" />
+      <workItem from="1572507962094" duration="2953000" />
+      <workItem from="1572510401121" duration="1693000" />
+      <workItem from="1572669726673" duration="606000" />
+      <workItem from="1590212382740" duration="31000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="194264000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.74007934" visible="true" weight="0.25799572" />
+      <window_info id="Structure" order="1" sideWeight="0.76996195" weight="0.20954692" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.26138613" side_tool="true" weight="0.16100323" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.38424438" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.06666667" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.26688102" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.22186495" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.2124031" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.013754046" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32928804" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.74007934" weight="0.23220065" />
+      <window_info id="Structure" order="1" sideWeight="0.76996195" weight="0.20954692" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.26138613" side_tool="true" weight="0.16100323" />
+      <window_info id="Image Layers" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.18971062" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30868167" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.32636657" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.26688102" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.22186495" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.21382637" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.013754046" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32928804" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-method">
+          <url>jar://D:/program/jdk8.0/src.zip!/java/nio/IntBuffer.java</url>
+          <line>559</line>
+          <properties class="java.nio.IntBuffer" method="get">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/handler/codec/MessageToByteEncoder.java</url>
+          <line>101</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/util/concurrent/MultithreadEventExecutorGroup.java</url>
+          <line>78</line>
+          <properties />
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/nio/AbstractNioMessageChannel.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/nio/AbstractNioMessageChannel.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/bootstrap/ServerBootstrap.java</url>
+          <line>254</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/AbstractChannel.java</url>
+          <line>475</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/DefaultChannelPipeline.java</url>
+          <line>209</line>
+          <properties />
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/AbstractChannel.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/DefaultChannelPipeline.java</url>
+          <line>92</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/handler/timeout/IdleStateHandler.java</url>
+          <line>479</line>
+          <properties />
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/heartbeat/MyServerHandler.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/handler/timeout/IdleStateHandler.java</url>
+          <line>513</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/handler/timeout/IdleStateHandler.java</url>
+          <line>548</line>
+          <properties />
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/util/concurrent/SingleThreadEventExecutor.java</url>
+          <line>863</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/nio/NioEventLoop.java</url>
+          <line>450</line>
+          <properties />
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/util/concurrent/SingleThreadEventExecutor.java</url>
+          <line>885</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/nio/NioEventLoop.java</url>
+          <line>458</line>
+          <properties />
+          <option name="timeStamp" value="112" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/AbstractChannelHandlerContext.java</url>
+          <line>352</line>
+          <properties />
+          <option name="timeStamp" value="118" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/AbstractChannelHandlerContext.java</url>
+          <line>347</line>
+          <properties />
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/ChannelInboundInvoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/ChannelOutboundInvoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="23" column="39" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program/jdk8.0/src.zip!/java/lang/Iterable.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/ChannelPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12298">
+          <caret line="583" column="19" selection-start-line="583" selection-start-column="12" selection-end-line="583" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/ChannelHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="190" column="9" selection-start-line="190" selection-start-column="9" selection-end-line="190" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/AbstractChannel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/ChannelDuplexHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="26" column="26" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/ChannelHandlerContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="146" column="19" selection-start-line="146" selection-start-column="19" selection-end-line="146" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/DefaultChannelHandlerContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/handler/logging/LoggingHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/source/echo/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="59" selection-start-line="3" selection-start-column="59" selection-end-line="3" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/ChannelOutboundHandlerAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/heartbeat/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/heartbeat/MyServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="49" column="70" selection-start-line="49" selection-start-column="70" selection-end-line="49" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/heartbeat/MyServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/handler/timeout/ReadTimeoutHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="62" column="24" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/handler/timeout/WriteTimeoutHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="64" column="57" lean-forward="true" selection-start-line="64" selection-start-column="49" selection-end-line="64" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/handler/timeout/IdleStateHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="545" column="17" lean-forward="true" selection-start-line="545" selection-start-column="17" selection-end-line="545" selection-end-column="17" />
+          <folding>
+            <element signature="e#12680#12681#0" expanded="true" />
+            <element signature="e#12720#12721#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program/jdk8.0/src.zip!/java/nio/channels/Selector.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/SingleThreadEventLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="534">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/EventLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="26" column="71" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program/jdk8.0/src.zip!/java/util/concurrent/Executor.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/bootstrap/ServerBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="184" selection-start-line="184" selection-end-line="184" />
+          <folding>
+            <element signature="e#6331#7069#0" expanded="true" />
+            <element signature="e#7068#7069#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/ChannelInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/DefaultChannelPipeline.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="641" selection-start-line="641" selection-end-line="641" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program/jdk8.0/src.zip!/java/lang/Runnable.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/nio/NioEventLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11770">
+          <caret line="586" column="36" selection-start-line="586" selection-start-column="36" selection-end-line="586" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program/jdk8.0/src.zip!/java/util/concurrent/ScheduledExecutorService.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final.jar!/io/netty/util/internal/shaded/org/jctools/queues/BaseMpscLinkedArrayQueue.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/simple/NettyServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/util/concurrent/SingleThreadEventExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18040">
+          <caret line="885" selection-start-line="885" selection-end-line="885" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/source/echo/EchoClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-265">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/source/echo/EchoServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="63" column="23" selection-start-line="63" selection-start-column="23" selection-end-line="63" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/source/echo/EchoClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/source/echo/EchoServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/source/echo2/EchoClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="32" column="19" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/simple/NettyServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="46" column="11" selection-start-line="32" selection-start-column="8" selection-end-line="46" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/simple/NettyClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/source/echo2/EchoClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="71" column="10" selection-start-line="71" selection-start-column="10" selection-end-line="71" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/program/jdk8.0/src.zip!/java/util/concurrent/Callable.java" />
+    <entry file="jar://$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar!/io/netty/channel/AbstractChannelHandlerContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6292">
+          <caret line="361" selection-start-line="361" selection-end-line="361" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/source/echo2/EchoServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="48" column="19" selection-start-line="41" selection-start-column="12" selection-end-line="48" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/publicinterface/HelloService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/provider/HelloServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="71" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/provider/ServerBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="32" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/netty/NettyClientHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="24" column="37" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/netty/NettyClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="43" column="22" selection-end-line="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/netty/NettyServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="40" column="83" selection-end-line="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/netty/NettyServerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="56" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/source/echo2/EchoServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="73" column="38" selection-start-line="73" selection-start-column="33" selection-end-line="73" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/atguigu/netty/dubborpc/customer/ClientBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="17" selection-start-line="13" selection-start-column="17" selection-end-line="13" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>NettyPro</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>io.netty:netty-all:4.1.20.Final</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
